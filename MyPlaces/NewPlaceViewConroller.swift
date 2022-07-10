@@ -32,12 +32,12 @@ class NewPlaceViewConroller: UITableViewController {
                 actionSheet.addAction(cancel)
                 present(actionSheet, animated: true)
          
-        }else {
+        } else {
             view.endEditing(true)
         }
     }
 }
-    
+//    jjfndjnfjjdfnjdf
 
 //MARK: Text field delegate
 //Убираем клавиатуру
